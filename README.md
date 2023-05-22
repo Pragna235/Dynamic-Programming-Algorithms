@@ -14,3 +14,7 @@
 * Longest Possible Palindrome SubSequence 2 - Dynamic Approach (Bottom-up Approach) (Opposite of the above problem)
 <br>Time Complexity - O(n^2)
 <br>https://github.com/Pragna235/Dynamic-Programming-Algorithms/blob/main/Longest%20Possible%20Palindrome%20SubSequence%202.cpp
+
+* Valid String 
+<br>Time Complexity - O(n^2)
+<br>https://github.com/Pragna235/Dynamic-Programming-Algorithms/blob/main/Valid%20String.cpp
