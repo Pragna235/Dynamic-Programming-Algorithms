@@ -6,3 +6,7 @@
 * Optimal Binary Search Tree in C++ Programming Language
   <br>Time Complexity - O(n^3)
   <br>https://github.com/Pragna235/Dynamic-Programming-Algorithms/blob/main/OBST.cpp
+  
+* Longest Palindrome Subsequence - Bottom-up Approach
+<br>Time Complexity - O(n^2)
+<br>https://github.com/Pragna235/Dynamic-Programming-Algorithms/blob/main/Longest%20Palindrome%20Subsequence.cpp
